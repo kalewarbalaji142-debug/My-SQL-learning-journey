@@ -7,7 +7,7 @@ commented step-by-step so it can be followed like a mini-tutorial, not just
 a set of raw queries.
 
 ## 📚 Learning source
-Following the SQL tutorial series by **[WsCube Tech](https://www.youtube.com/@wscubetech)**
+Following the SQL tutorial series by ("CodeWithHarry" https://youtu.be/yE6tIle64tU?si=cTheIsr9GKuTAg3T )
 on YouTube. Concepts and examples are based on that course; all queries were
 written and tested independently as practice.
 
